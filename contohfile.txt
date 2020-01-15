@@ -2,3 +2,5 @@ Ini adalah contoh file txt:
 Belajar github adalah bagian dari pembelajaran pemrograman
 End of file
 end
+Ini bagian perubahan ke 1
+ini bagian perubahan ke 1
